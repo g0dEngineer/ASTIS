@@ -2,7 +2,7 @@
 
 # [ASTIS](https://github.com/g0dEngineer/ASTIS) Curriculum Main Page
 
-![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/0.jpg)
+![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/banner.jpg)
 
 # Why learn Ai development and application?
 1. [The world's smartest people are switching careers into Ai research and application/productization!](https://www.linkedin.com/posts/god-bennett_httpslnkdinebrmfzu-activity-6761811288260694016-70Ys).
