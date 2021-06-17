@@ -50,7 +50,7 @@ As underlined in [prior Live Neural network sessions by organizer Bennett](https
 https://github.com/g0dEngineer/ASTIS
 
 # About organizers
-[Dr Peters](Doctor, Pioneer in Advanced Technical Education, in the State of Delaware)
+[Dr Ancil Peters](https://tt.linkedin.com/in/ancil-peters-8a697811b) is Executive Assistant to CEO at [Asti](https://www.astitnt.com).
 
 [Erica Simmons](https://www.linkedin.com/in/erica-simmons-abb09a1/) is a Global Tech Strategist, Philanthropist, Entrepreneur and Inventor.
 
