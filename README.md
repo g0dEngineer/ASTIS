@@ -1,4 +1,4 @@
-# Advanced Solutions Technical Institute - Smart Ai Curriculum (ASTIS )
+# Advanced Solutions Technical Institute - Smart Ai Curriculum (ASTIS) Via https://www.astitnt.com
 
 # [ASTIS](https://github.com/g0dEngineer/ASTIS) Curriculum Main Page
 
