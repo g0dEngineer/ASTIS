@@ -10,7 +10,7 @@
  * It is thus key to intimately benefit in this automation effort, rather than fail to do so.
 
 # Recommended Mini Artificial Intelligence Docuseries:
-[The AGE of Artificial Intelligence Season 1, Hosted by Robert Downey Jnr](
+[The AGE of Artificial Intelligence Season 1, Hosted by Robert Downey Jr](
 https://youtu.be/UwsrzCVZAb8?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
 
 # Introduction
