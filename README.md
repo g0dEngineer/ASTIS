@@ -2,7 +2,7 @@
 
 # Practical/Rapid ~6+ Week Ai Course 
 
-# The AICES pathway: 
+# The ASTIT pathway: 
  * Start as a typical computer user, and end as an Artificial Intelligence product creator! 
  * With [800 million jobs to be automated away by 2030](https://www.bbc.com/news/world-us-canada-42170100), and Artificial Intelligence market cap at [15 trillion around the same time](https://www.forbes.com/sites/greatspeculations/2019/02/25/ai-will-add-15-trillion-to-the-world-economy-by-2030/?sh=76b9bd4e1852), become a builder of Ai solutions, and [capture your chunk of the exponentially growing Ai market](https://singularityhub.com/2018/07/15/why-most-of-us-fail-to-grasp-coming-exponential-gains-in-ai/).
 
