@@ -50,7 +50,8 @@ By the time you complete either one of [ASTIS](https://github.com/g0dEngineer/AS
 
 
 # Curriculum Requirements
-1. Candidates must have at least passed the [GSAT](https://en.wikipedia.org/wiki/Grade_Six_Achievement_Test) or completed the [PEP](http://www.moe.gov.jm/primary-exit-profile-pep). (Additionally, up to PhD/Professor level candidates are welcome too!)
+1. Candidates must have at least passed the [GSAT](https://en.wikipedia.org/wiki/Grade_Six_Achievement_Test) or completed the [PEP](http://www.moe.gov.jm/primary-exit-profile-pep) or something similar. (Additionally, up to PhD/Professor level candidates are welcome too!) 
+* This above requirement essentially concerns just before high school level all the way up to PhD/Professor people who want to profit from Ai development!
 2. Candidates must be willing to devote 6 to 8+ weeks to ASTIS's curriculum. In other words, candidates must be willing to build himself/herself, by acquiring machine learning skills through ASTIS's 6-8+ week curriculum.
 
 
