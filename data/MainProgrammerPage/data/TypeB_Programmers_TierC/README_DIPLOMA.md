@@ -1,7 +1,7 @@
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/logo.png)
 
 # [ASTIS](http://mlj-institute.appspot.com/) Curriculum Type B, Tier C (For programmers that don't know python, but know github)
-## Course Code: "ASTIS-CTBTC"
+## Course Code: "ASTIS-CTBTCD" (CTBTC"D"→Diploma Award)
 
 # Main Overview
 This curriculum consists of 2 main parts and one final optional part: 
