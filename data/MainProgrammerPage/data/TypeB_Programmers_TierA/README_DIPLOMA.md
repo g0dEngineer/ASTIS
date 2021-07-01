@@ -151,6 +151,8 @@ This portfolio will be accessible from your URL above, and will appeal to your e
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/down.png)
 
 
+# Bonus-beyond: Humanity's last invention - Introduction to Artificial General Intelligence ([Example: Prof Ben Gortzel](https://youtu.be/9snY7lhJA4c))
+See course content (15 minutes read): https://github.com/g0dEngineer/ASTIS/blob/main/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf
 
 # Main Page
 You may return to the main page from [here](https://github.com/g0dEngineer/ASTIS/).
