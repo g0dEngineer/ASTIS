@@ -3,7 +3,7 @@
 
 
 # [ASTIS](https://github.com/g0dEngineer/ASTIS/) Curriculum Type A (For non programmers)
-## Course Code: "ASTIS-CTA"
+## Course Code: "ASTIS-CTAC" (CTAC→Certificate Award)
 
 # Main Overview
 This curriculum consists of 3 main parts and one final optional part: 
