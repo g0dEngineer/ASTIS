@@ -2,7 +2,7 @@
 
 
 # [ASTIS](http://mlj-institute.appspot.com/) Curriculum Type B, Tier D (For programmers that don't know python, and don't know github)
-## Course Code: "ASTIS-CTBTD"
+## Course Code: "ASTIS-CTBTDD" (CTBTD"D"→Diploma Award)
 
 # Main Overview
 This curriculum consists of 3 main parts and one final optional part: 
