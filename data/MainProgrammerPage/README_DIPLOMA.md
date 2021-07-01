@@ -16,7 +16,7 @@ As such, from here on out, you select one of the tiers below, and begin your lea
 Each of the above may vary based on the candidate's awareness of python and github, which are designated by [ASTIS](https://github.com/g0dEngineer/ASTIS) as crucial components in the resulting career seeking endeavour at the curriculum's completion. The candidate may select other source code hosting platforms such as bitbucket, if he/she desires it, but the lessons are typically github-centered.
 
 # Main Page
-You may return to the main page from [here](https://github.com/g0dEngineer/ASTIS).
+You may return to the main page from [here](https://github.com/g0dEngineer/ASTIS/tree/main/data/MainProgrammerPage).
 
 # Happy coding!
 
