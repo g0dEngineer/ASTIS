@@ -80,6 +80,10 @@ https://github.com/g0dEngineer/ASTIS
 # Recommended reading for babies
 ASTIS's course is designed for teens/adults. Albeit, take a look at these intriguing books for babies: [Einsteinian books for babies](https://medium.com/@jordanmicahbennett/einsteinian-books-for-babies-4aa18c3c23c)
 
+# Recommended long term reading for students
+The most rigorous attempt to create an explanatory framework for Deep Learning (about 500 pages), recently built heavily in Physics:
+https://deeplearningtheory.com/PDLT.pdf
+
 # Happy coding!
 
 
