@@ -113,7 +113,7 @@ This semester concludes with a core review of mathematical notations ranging fro
 
 # Fourth Semester Examination (Estimated Completion Duration: 4 days) ~ Setup and run a previously solved deep learning solution, then write a deep learning research paper
 An important part of Deep Learning is the ability to carry accross some code base into a research paper, for other scientists to reproduce.
-1. Look at [sample covid19 solution by ASTIS author, concerning Covid19 Diagnosis](https://www.researchgate.net/publication/341176434_World's_first_known_Open-Source_Machine_Learning_Convolutional_Artificial_Neural_Network_in_Covid19_XRay_Diagnosis_February_9_2020.
+1. Look at [sample covid19 solution by ASTIS author, concerning Covid19 Diagnosis](https://www.researchgate.net/publication/341176434_World's_first_known_Open-Source_Machine_Learning_Convolutional_Artificial_Neural_Network_in_Covid19_XRay_Diagnosis_February_9_2020).
 2. Discuss at least 5 sections/titles included.
 3. Writing a research paper helps not only to communicate an ai project's ideas/results to other scientists, but helps the candidate to extract meaningful core information from a project.
 4. Upload this paper to your github account. Name it "Paper_For-ASTIS-FinalSemester", or something similar.
