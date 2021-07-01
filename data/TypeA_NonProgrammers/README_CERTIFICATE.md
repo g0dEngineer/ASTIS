@@ -109,7 +109,21 @@ This semester concludes with a core review of mathematical notations ranging fro
 
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/down.png)
+# RED Policy/Key to benefiting from Ai development (4th SEMESTER PRE-REQUISITE APPROACH)
+# R.E.D. → Rapid Experimentation Delivery of Ai apps
+What do you do when you want to hire a driver for a new driving task?
+1. Train a non-driver from scratch, i.e. get Liscence, Train for 4 years on road.
+2. Hire a seasoned person who had already been driven with few errors for 4 years.
+* I.e. We can say the driver is pre-trained for driving, and time to train this driver for a driving task will be far less.
 
+In a similar way, to solve a problem amenable to Ai use, it is optimal to find a pre-trained Ai model, typically alreeady trained on expensive Ai gpus for several hours (that can cost up to 3000 usd per unit or per month), like rtx 3090s up to V100s.
+
+In the case of Covid19 diagnosis for eg, since Covid19 is identified as a form of pneumonia, instead of training from scratch, it is optimal to:
+1. Find a pre-trained pneumonia model. (One with high accuracy/sensitivity/specificity. Quickly explore several pretrained models and select best.)
+2. Integrate model best AUC into your pipeline. (Like a user interface built on top of your Ai model to be user friendly)
+
+
+![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/tick.png)
 
 # Fourth Semester Examination (Estimated Completion Duration: 4 days) ~ Setup and run a previously solved deep learning solution, then write a deep learning research paper
 An important part of Deep Learning is the ability to carry accross some code base into a research paper, for other scientists to reproduce.
