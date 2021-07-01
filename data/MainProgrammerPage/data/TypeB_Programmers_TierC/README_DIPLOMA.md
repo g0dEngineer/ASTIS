@@ -112,7 +112,7 @@ This semester concludes with a core review of mathematical notations ranging fro
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/down.png)
 
-# RED Policy/Key to benefiting from Ai development (4th SEMESTER PRE-REQUISITE APPROACH)
+# RED Policy/Key to benefiting from Ai development (3rd SEMESTER PRE-REQUISITE APPROACH)
 # R.E.D. → Rapid Experimentation Delivery of Ai apps
 What do you do when you want to hire a driver for a new driving task?
 1. Train a non-driver from scratch, i.e. get Liscence, Train for 4 years on road.
