@@ -3,7 +3,7 @@
 
 
 # [ASTIS](hhttps://github.com/g0dEngineer/ASTIS/) Curriculum Type B, Tier A (For programmers that know python, and know github)
-## Course Code: "ASTIS-CTBTA"
+## Course Code: "ASTIS-CTBTAD" (CTBTA"D"→Diploma Award)
 
 # Main Overview
 This curriculum consists of 2 main parts and one final optional part: 
