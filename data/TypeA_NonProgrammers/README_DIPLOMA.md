@@ -3,7 +3,7 @@
 
 
 # [ASTIS](https://github.com/g0dEngineer/ASTIS/) Curriculum Type A (For non programmers)
-## Course Code: "ASTIS-CTAC" (CTA"D"→Diploma Award)
+## Course Code: "ASTIS-CTAD" (CTA"D"→Diploma Award)
 
 # Main Overview
 This curriculum consists of 3 main parts and one final optional part: 
