@@ -10,7 +10,7 @@
      * As an ASTIS trained person [who happens to be a nurse or doctor...], building out an Ai based covid19 diagnosis, is another one of thousands of exciting practical/profitable AI apps, through ASTIS roadmap.  ([See relevant Ai app by creator of ASTIS](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR))
      * ...
 
-# Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/g0dEngineer/ASTIS/blob/main/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) accoding to Prof Ben Gortzel, etc.
+# Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/g0dEngineer/ASTIS/blob/main/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) according to Prof Ben Gortzel, etc.
 
 
 # [ASTIS](https://github.com/g0dEngineer/ASTIS) Curriculum Main Page
