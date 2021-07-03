@@ -99,7 +99,7 @@ See also - Short summary: ["NOW IT’S OFFICIAL: WE DIDN’T UNDERSTAND HOW NEUR
 - [x] Rapid Ai Product Building Methodology (Exposed in both Certificate & Diploma)
 - [x] Artificial General Intelligence Basis (Exposed in both Certificate & Diploma. )
 * Unique existence of an Introduction to Artificial General Intelligence in an Ai course.
-* Includes talk between ASTIS lead God Bennett, and Dr. Eray Ozkural, one of the smartest persons who are currently working on AGI.
+* Includes talk between ASTIS lead God Bennett, and Dr. Eray Ozkural, one of the smartest persons who are currently working on AGI, who won the 2015 Kurzweil AGI award, given by Google's Ray Kurzweil.
 
 # Happy coding!
 
