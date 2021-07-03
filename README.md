@@ -87,6 +87,18 @@ https://deeplearningtheory.com/PDLT.pdf
 
 See also - Short summary: ["NOW IT’S OFFICIAL: WE DIDN’T UNDERSTAND HOW NEURAL NETWORKS WORK TILL NOW"](https://striki.ai/blog/2021/06/24/now-its-official-we-didnt-understand-how-neural-networks-work-till-now/).
 
+# Skills gained
+[x] Key Fundamental Artificial Neural Network Coding   
+[x] Practical Convolutional Artificial Neural Network application (Seen in real world in Self driving cars, Disease Diagnosis engines etc)
+[x] Practical Recurrent Artificial Neural Network application (Seen in real world in any voice recognition App)
+[x] Practical Generative Adversarial Network application (Seen in real world in synthetic Avatar Apps)
+[x] Practical Reinforcement Learning application (Seen in real world in Electricity Consumption optimization)
+[x] Practical Data Wrangling (Without Data Ai is essentially meaningless)
+[x] Deep Learning/Paper Writing (Exposed in Certificate)
+[x] Ai Product Building (Exposed in Diploma)
+[x] Rapid Ai Product Building Methodology (Exposed in both Certificate & Diploma)
+[x] Artificial General Intelligence Basis (Exposed in both Certificate & Diploma)
+
 # Happy coding!
 
 
