@@ -7,7 +7,7 @@
 This curriculum consists of 2 main parts and one final optional part: 
 1. The first semester, concerning **a quick review of python structure, since you're already a programmer** and a tutorial on **regularly used machine learning libraries in python**.
 3. The second semester, concerning the main topic, **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)**!
-4. The last and third semester, concerning applying knowledge from the prior semesters, and attempting to **solve a problem faced by preferably the Jamaican country or elsewhere**. (The code/idea developed is yours, and is not the property of [ASTIS](http://mlj-institute.appspot.com/).) 
+4. The last and third semester, concerning applying knowledge from the prior semesters, and attempting to **solve a problem faced by preferably your country or elsewhere**. (The code/idea developed is yours, and is not the property of [ASTIS](http://mlj-institute.appspot.com/).) 
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/TypeA_NonProgrammers/data/time.png)
 
@@ -132,9 +132,9 @@ In the case of Covid19 diagnosis for eg, since Covid19 is identified as a form o
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/tick.png)
 
 # Third Semester (Estimated Completion Duration: 2+ weeks) ~ Apply prior semesters' knowledge to build an app of your choosing.
-1. Search for a **problem to solve** preferably in Jamaica or otherwise worldwide: 
+1. Search for a **problem to solve** preferably in your country or otherwise worldwide: 
 
-      a. If the problem has **not yet been solved** worldwide or in Jamaica, you can **manipulate any existing python/tensorflow code** etc, to solve the problem.
+      a. If the problem has **not yet been solved** worldwide or in your country, you can **manipulate any existing python/tensorflow code** etc, to solve the problem.
       
       b. If the problem has **already been solved**, try to apply whatever you learnt to either achieve the same efficiency, or better, by using **your own code assemblies**.
 
