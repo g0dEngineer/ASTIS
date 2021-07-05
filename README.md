@@ -96,7 +96,7 @@ See also - Short summary: ["NOW IT’S OFFICIAL: WE DIDN’T UNDERSTAND HOW NEUR
 - [x] Practical Data Wrangling (Without Data Ai is essentially meaningless)
 - [x] Deep Learning/Paper Writing (Exposed in Certificate)
 - [x] Ai Product Building (Exposed in Diploma)
-- [x] Rapid Ai Product Building Methodology (Exposed in both Diploma)
+- [x] Rapid Ai Product Building Methodology (Exposed in Diploma)
 - [x] Artificial General Intelligence Basis (Exposed in both Certificate & Diploma. )
 * Unique existence of an Introduction to Artificial General Intelligence (predicted by around 2023-2029 or later, by experts to be mankind's last invention) in an Ai course.
 * Includes talk between ASTIS lead God Bennett, and Dr. Eray Ozkural, one of the smartest persons who are currently working on AGI, who won the 2015 Kurzweil AGI award, given by Google's Ray Kurzweil.
