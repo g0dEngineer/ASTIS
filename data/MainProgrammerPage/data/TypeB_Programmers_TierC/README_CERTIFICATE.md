@@ -7,7 +7,7 @@
 This curriculum consists of 2 main parts and one final optional part: 
 1. The first semester, concerning **a quick review of python structure, since you're already a programmer** and a tutorial on **regularly used machine learning libraries in python**.
 3. The second semester, concerning the main topic, **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)**!
-4. The last and third semester, concerning applying knowledge from the prior semesters, and attempting to **solve a problem faced by preferably the Jamaican country or elsewhere**. (The code/idea developed is yours, and is not the property of [ASTIS](http://mlj-institute.appspot.com/).) 
+4. The last and third semester, concerning applying knowledge from the prior semesters, and attempting to **solve a problem faced by preferably your country or elsewhere**. (The code/idea developed is yours, and is not the property of [ASTIS](http://mlj-institute.appspot.com/).) 
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/TypeA_NonProgrammers/data/time.png)
 
