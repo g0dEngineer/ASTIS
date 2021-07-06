@@ -122,7 +122,7 @@ In the case of Covid19 diagnosis for eg, since Covid19 is identified as a form o
 2. Integrate model best AUC into your pipeline. (Like a user interface built on top of your Ai model to be user friendly)
 3. The above is a similar approach taken by large companies like Google, who employ the usage of [Auto-ML](https://en.wikipedia.org/wiki/Automated_machine_learning) to help select best models.
 * In your case, you manually explore the landscape of available pretrained models by literally trying each of them out.
-* Key is to idenify ones that clearly specify their accuracy/senstivity/specificity for many cases. (Eg of resource for pre-trained models found on Github and Kaggle)
+* Key is to identify ones that clearly specify their accuracy/senstivity/specificity for many cases. (Eg of resource for pre-trained models found on Github and Kaggle)
 
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/tick.png)
