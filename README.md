@@ -15,6 +15,7 @@
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/tick.png)
 
 # First known practical Neural Network Programming Course with an Introduction to Artificial General Intelligence :)
+# This originally stemmed from an initiative to develop world’s 1st university, just for Artificial Intelligence. (See local newspaper articles by ASTI Ai Course Author, [in 2018](https://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could) and [2019](https://jamaica-gleaner.com/article/news/20191229/why-jamaica-urgently-needs-minister-artificial-intelligence))
 
 # [ASTIS](https://github.com/g0dEngineer/ASTIS) Curriculum Main Page
 
