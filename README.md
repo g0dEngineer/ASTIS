@@ -12,6 +12,7 @@
 
 # Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/g0dEngineer/ASTIS/blob/main/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) according to Prof Ben Gortzel, etc.
 
+# First Neural Networks Course with an Introduction to Artificial General Intelligence :)
 
 # [ASTIS](https://github.com/g0dEngineer/ASTIS) Curriculum Main Page
 
