@@ -62,6 +62,10 @@ By the time you complete either one of [ASTIS](https://github.com/g0dEngineer/AS
 * The requirement above essentially concerns just before high school level all the way up to PhD/Professor people who want to profit from Ai development!
 2. Candidates must be willing to devote at most 6 to 8+ weeks to ASTIS's curriculum. In other words, candidates must be willing to build himself/herself, by acquiring machine learning skills through ASTIS's 6-8+ week curriculum.
 3. Candidates need to have access to [machine learning computers](https://pub.towardsai.net/best-laptops-for-machine-learning-deep-learning-data-science-ml-f55602197593), or online machine learning compute like free collab instances.
+4. This course also advises for the use of datasets such as those [from kaggle](https://www.kaggle.com/datasets). Ai/Machine learning is normally complete with ingredients:
+* Ai Knowledge/Skills (which this course builds in each candidate)
+* Ai Compute
+* Ai Compatible/Consumable Datasets
 
 
 
