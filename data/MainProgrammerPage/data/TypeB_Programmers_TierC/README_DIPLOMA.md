@@ -115,7 +115,7 @@ This semester concludes with a core review of mathematical notations ranging fro
 # RED Policy/Key to benefiting from Ai development (3rd SEMESTER PRE-REQUISITE APPROACH)
 # R.E.D. → Rapid Experimentation Delivery of Ai apps
 What do you do when you want to hire a driver for a new driving task?
-1. Train a non-driver from scratch, i.e. get Liscence, Train for 4 years on road.
+1. Train a non-driver from scratch, i.e. get Licence, Train for 4 years on road.
 2. Hire a seasoned person who had already driven with few errors for 4 years.
 * I.e. We can say the driver is pre-trained for driving, and time to train this driver for a driving task will be far less.
 
