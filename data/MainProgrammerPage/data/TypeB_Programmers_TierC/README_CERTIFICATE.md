@@ -4,7 +4,7 @@
 ## Course Code: "ASTIS-CTBTCC" (CTBTC"C"→Certificate Award)
 
 # Main Overview
-This curriculum consists of 2 main parts and one final optional part: 
+This curriculum consists of 3 concise mandatory semesters/parts and one optimal segment; an  Introduction to Artificial General Intelligence.
 1. The first semester, concerning **a quick review of python structure, since you're already a programmer** and a tutorial on **regularly used machine learning libraries in python**.
 3. The second semester, concerning the main topic, **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)**!
 4. The last and third semester, concerning applying knowledge from the prior semesters, and attempting to **solve a problem faced by preferably your country or elsewhere**. (The code/idea developed is yours, and is not the property of [ASTIS](http://mlj-institute.appspot.com/).) 
