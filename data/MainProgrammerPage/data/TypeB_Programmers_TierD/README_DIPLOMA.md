@@ -5,7 +5,7 @@
 ## Course Code: "ASTIS-CTBTDD" (CTBTD"D"→Diploma Award)
 
 # Main Overview
-This curriculum consists of 3 main parts and one final optional part: 
+This curriculum consists of 4 concise mandatory semesters/parts and one optimal segment; an  Introduction to Artificial General Intelligence.
 1. The first semester, concerning **a quick review of python structure, since you're already a programmer** and a tutorial on **regularly used machine learning libraries in python**.
 2. The second semester, concerning using **github**. (Github will contain your work, and employers prefer to see healthy github pages!)
 3. The third semester, concerning the main topic, **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)**!
@@ -127,11 +127,11 @@ This semester concludes with a core review of mathematical notations ranging fro
 # RED Policy/Key to benefiting from Ai development (4th SEMESTER PRE-REQUISITE APPROACH)
 # R.E.D. → Rapid Experimentation Delivery of Ai apps
 What do you do when you want to hire a driver for a new driving task?
-1. Train a non-driver from scratch, i.e. get Liscence, Train for 4 years on road.
+1. Train a non-driver from scratch, i.e. get Licence, Train for 4 years on road.
 2. Hire a seasoned person who had already driven with few errors for 4 years.
 * I.e. We can say the driver is pre-trained for driving, and time to train this driver for a driving task will be far less.
 
-In a similar way, to solve a problem amenable to Ai use, it is optimal to find a pre-trained Ai model, typically alreeady trained on expensive Ai gpus for several hours (that can cost up to 3000 usd per unit or per month), like rtx 3090s up to V100s.
+In a similar way, to solve a problem amenable to Ai use, it is optimal to find a pre-trained Ai model, typically already trained on expensive Ai gpus for several hours (that can cost up to 3000 usd per unit or per month), like rtx 3090s up to V100s.
 
 In the case of Covid19 diagnosis for eg, since Covid19 is identified as a form of pneumonia, instead of training from scratch, it is optimal to:
 1. Find a pre-trained pneumonia model. (One with high accuracy/sensitivity/specificity. Quickly explore several pretrained models and select best.)
