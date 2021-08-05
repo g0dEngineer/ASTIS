@@ -121,7 +121,7 @@ An important part of Deep Learning is the ability to carry accross some code bas
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/TypeA_NonProgrammers/data/portfolio.png)
 
 # Your portfolio
-We'll provide you with your own portfolio page (aka your portfolio URL), at [ASTIS.com/students/< your-username >/< your-ASTIS-id >](https://github.com/g0dEngineer/ASTIS/blob/main/data/SampleCandidatePortfolio/PORTFOLIOMD). (See sample portfolio [here](https://github.com/g0dEngineer/ASTIS/blob/main/data/SampleCandidatePortfolio/PORTFOLIO.MD).)
+We'll provide you with your own portfolio page (aka your portfolio URL), at [ASTIS.com/students/< your-username >/< your-ASTIS-id >](https://github.com/g0dEngineer/ASTIS/blob/main/data/SampleCandidatePortfolio/PORTFOLIO.MD). (See sample portfolio [here](https://github.com/g0dEngineer/ASTIS/blob/main/data/SampleCandidatePortfolio/PORTFOLIO.MD).)
 
 The portfolio will list all your uploaded works, including your final-semester research paper. You'll provide descriptions and github links of each work entry uploaded to github on the portfolio.
 
