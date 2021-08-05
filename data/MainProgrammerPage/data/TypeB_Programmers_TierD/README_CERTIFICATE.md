@@ -5,7 +5,7 @@
 ## Course Code: "ASTIS-CTBTDC" (CTBTD"C"→Certificate Award)
 
 # Main Overview
-This curriculum consists of 3 main parts and one final optional part: 
+This curriculum consists of 3 concise mandatory semesters/parts and one optimal segment; an  Introduction to Artificial General Intelligence.
 1. The first semester, concerning **a quick review of python structure, since you're already a programmer** and a tutorial on **regularly used machine learning libraries in python**.
 2. The second semester, concerning using **github**. (Github will contain your work, and employers prefer to see healthy github pages!)
 3. The third semester, concerning the main topic, **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)**!
