@@ -53,7 +53,7 @@ More python pickle information can be found on the [Pickle Library Page](https:/
 
 1. Follow closely, [this 9 step neural network construction tutorial by Eden Au](https://towardsdatascience.com/machine-learning-in-python-numpy-neural-network-in-9-steps-eafd0db25906).
 2. **Intuitive understanding** of basic machine learning components, such as fundamental artificial neural network structures, is important for **maintaining the desire** to continue to pursue the field of artificial intelligence/machine learning/data science. If you still desire a more intuitive description of the basic artificial neural networks described in item 1 above, read the text descriptions and watch the video content found in my book "**Artificial Neural Networks for Kids**". (Get the book from [this Amazon url](https://www.amazon.com/dp/B077FX57ZZ), or get it free from [this Research-Gate url](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)).
-3. (Optional) On your own, try to construct a basic artificial neural network from scratch, without the usage of any machine learning library. (You can follow this guidline of mine [here](https://its2019.iis-international.org/wp-content/uploads/ITS-2019-Tutorial.pdf) or [here](https://drive.google.com/file/d/1PqCvorCsCiPqVkYZPjDpiIk41NOfGz-c/view?usp=sharing), taken from my presentation/programming tutorial at [ITS 2019](https://its2019.iis-international.org/program/selected-workshops-and-tutorials/).)
+3. (Optional) On your own, try to construct a basic artificial neural network from scratch, without the usage of any machine learning library. (You can follow this guideline of mine [here](https://its2019.iis-international.org/wp-content/uploads/ITS-2019-Tutorial.pdf) or [here](https://drive.google.com/file/d/1PqCvorCsCiPqVkYZPjDpiIk41NOfGz-c/view?usp=sharing), taken from my presentation/programming tutorial at [ITS 2019](https://its2019.iis-international.org/program/selected-workshops-and-tutorials/).)
 4. (Optional) Upload this code to your github account. Name it "My-Code_For-AICES-Week-1", or something similar.
 5. Instead of on your own in item (3), let me guide you through, let's do [my live artificial neural network programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions)! Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use python to follow along to replicate my basic neural network code as I write it out! 
 
@@ -111,11 +111,11 @@ This semester concludes with a core review of mathematical notations ranging fro
 # RED Policy/Key to benefiting from Ai development (4th SEMESTER PRE-REQUISITE APPROACH)
 # R.E.D. → Rapid Experimentation Delivery of Ai apps
 What do you do when you want to hire a driver for a new driving task?
-1. Train a non-driver from scratch, i.e. get Liscence, Train for 4 years on road.
+1. Train a non-driver from scratch, i.e. get Licence, Train for 4 years on road.
 2. Hire a seasoned person who had already driven with few errors for 4 years.
 * I.e. We can say the driver is pre-trained for driving, and time to train this driver for a driving task will be far less.
 
-In a similar way, to solve a problem amenable to Ai use, it is optimal to find a pre-trained Ai model, typically alreeady trained on expensive Ai gpus for several hours (that can cost up to 3000 usd per unit or per month), like rtx 3090s up to V100s.
+In a similar way, to solve a problem amenable to Ai use, it is optimal to find a pre-trained Ai model, typically already trained on expensive Ai gpus for several hours (that can cost up to 3000 usd per unit or per month), like rtx 3090s up to V100s.
 
 In the case of Covid19 diagnosis for eg, since Covid19 is identified as a form of pneumonia, instead of training from scratch, it is optimal to:
 1. Find a pre-trained pneumonia model. (One with high accuracy/sensitivity/specificity. Quickly explore several pretrained models and select best.)
