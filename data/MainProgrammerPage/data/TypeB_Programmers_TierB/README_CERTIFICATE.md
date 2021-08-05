@@ -13,7 +13,7 @@ This curriculum consists of 3 main parts and one final optional part:
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/TypeA_NonProgrammers/data/time.png)
 
-# Note: The total time required to complete this entire curriculum is roughly 6 weeks and 7 hours, excluding semester 4.
+# Note: The total time required to complete this entire curriculum is roughly 4 weeks and 7 hours, excluding semester 4.
 
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/down.png)
