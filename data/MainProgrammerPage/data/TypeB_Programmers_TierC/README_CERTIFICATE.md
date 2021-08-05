@@ -1,7 +1,7 @@
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/logo.png)
 
 # [ASTIS](http://mlj-institute.appspot.com/) Curriculum Type B, Tier C (For programmers that don't know python, but know github)
-## Course Code: "ASTIS-CTBTCC" (CTBTC"C"→Diploma Award)
+## Course Code: "ASTIS-CTBTCC" (CTBTC"C"→Certificate Award)
 
 # Main Overview
 This curriculum consists of 2 main parts and one final optional part: 
@@ -12,7 +12,7 @@ This curriculum consists of 2 main parts and one final optional part:
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/TypeA_NonProgrammers/data/time.png)
 
 
-# Note: The total time required to complete this entire curriculum is roughly 6 weeks 1 day, and 6 hours, excluding semester 3.
+# Note: The total time required to complete this entire curriculum is roughly 4 weeks 1 day, and 6 hours, excluding semester 3.
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/down.png)
 
