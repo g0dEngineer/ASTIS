@@ -53,7 +53,7 @@ More python pickle information can be found on the [Pickle Library Page](https:/
 
 
 ## Week 2 - Machine Learning Library Practice
-1. Try to grind through [this 3 hour course on Tensorflow](https://www.youtube.com/watch?v=DFKHh7_zzJc&t=126s). Tensorflow is a popular machine learning library. You can start with this, or resort to other libraries like MXNET. 
+1. Try to grind through [this 3 hour course on Tensorflow (Sections: "Beginner quickstart, Keras basics,Keras.Load data") ](https://www.tensorflow.org/tutorials). Tensorflow is a popular machine learning library. You can start with this, or resort to other libraries like MXNET. 
 
 * You can use any one of these libraries for the subsequent weeks. Note that Tensorflow has the support of Google, so it may be wise to choose this library. MXNET also has the support of Microsoft, so that is not a bad option either.
 
