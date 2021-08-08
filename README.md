@@ -4,7 +4,10 @@
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/down.png)
 
-There are thousands of Ai links online, and this course condenses both ASTI lecturer's work as well as powerful models by large coporations like tensorflow [into consumable pathways](https://github.com/g0dEngineer/ASTIS#rapidoptimal-6-week-curriculum). Like other university-like programs, it is ASTI lecturer's duty to always provide direct feedback and guidance throughout the lecturer's own academic software work/teachings, as well the models of the large coporations like tensorflow.
+There are thousands of Ai links online, and this course condenses both ASTI lecturer's work as well as powerful models by large coporations like tensorflow [into consumable pathways](https://github.com/g0dEngineer/ASTIS#rapidoptimal-6-week-curriculum). Like other university-like programs, it is ASTI lecturer's duty to always provide direct feedback and guidance throughout the lecturer's own academic software work/teachings, as well the models of the large coporations like tensorflow. 
+
+ * It is also ASTI lecturer's duty to softly introduce candidates into the world of Artificial Intelligence AGI (which is currently separate from the world of tensorflow/specialized Ai etc), through AGI directions sought by the ASTI lecturer's additional academic work beyond specialized Ai work like tensorflow.
+ * Additionally, the ASTI lecturer reveals a talk with an established AGI researcher, namely Dr. Eray Ozkural, who worked with people who coined the term Ai, and also received Google Ray Kurzweil's 2015 AGI award!
 
 
 # Meaning of life & the ASTIS roadmap: 
