@@ -95,7 +95,7 @@ More python pickle information can be found on the [Pickle Library Page](https:/
 
 2. Remember [the self driving car that was launched by Google in Arizona](https://www.washingtonpost.com/local/trafficandcommuting/waymo-launches-nations-first-commercial-self-driving-taxi-service-in-arizona/2018/12/04/8a8cd58a-f7ba-11e8-8c9a-860ce2a8148f_story.html)? 
 
-* Simply try to run [this self driving car simulation here, based on Tensorflow](https://github.com/pekaalto/DQN) to get a reasonable idea of how Google Waymo was built.
+* Simply try to run [this self reinforcement simulation here, based on Tensorflow](https://www.tensorflow.org/agents/tutorials/1_dqn_tutorial) to get a reasonable idea of how Google Waymo was built.
 
 3. Optionally, read [my 6 minute introduction to deep q learning](https://medium.com/@jordanmicahbennett/a-simple-8-minute-deepmind-deep-q-learning-schematic-in-input-process-outcome-cycle-laymen-terms-bb6916ccddb8). Deep Q learning is a variant of reinforcement learning.
 
