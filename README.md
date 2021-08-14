@@ -47,6 +47,7 @@ https://youtu.be/UwsrzCVZAb8?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
 * [Google, Microsoft etc, are working towards AGI today](https://link.springer.com/article/10.1007/s00146-019-00887-x).
 
 2. Crucially, for eg, bodies in non-ai strong countries, like the **Jamaican government** [has recognized that artificial narrow intelligence, a part of machine learning, is a threat to jobs](http://jamaica-gleaner.com/article/news/20180418/beware-artificial-intelligence-wheatley-warns-bpo-sector). Notably, [here's a list of jobs where robots or smart software are already replacing humans](https://blog.cheapism.com/robots-taking-jobs/). 
+* [See these recent Ai/GPT-3 based examples, that are already doing things like introductory level automated software engineering, including website/react js/html creation, game creation, machine learning code, all automatically generated using simple english prompts!!!](https://www.linkedin.com/posts/god-bennett_creating-a-space-game-with-openai-codex-activity-6832023549859958784-mq9f)
 
 3. As the **1st machine learning school established in the Carribean** in May, 2021, [ASTIS](https://github.com/g0dEngineer/ASTIS) seeks to help more and more Jamaicans to find out what steps they can take to acquire skills needed to **stay relevant** in a world that's more and more driven by artificial intelligence, that shall replace more and more jobs with physical robots and or smart software. 
 
