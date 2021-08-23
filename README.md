@@ -96,7 +96,7 @@ https://github.com/g0dEngineer/ASTIS
 
 [Erica Simmons](https://www.linkedin.com/in/erica-simmons-abb09a1/) is a Global Tech Strategist, Philanthropist, Entrepreneur and Inventor.
 
-[God Quest Bennett](https://www.linkedin.com/in/god-bennett/) is author of "**Artificial Neural Networks for Kids**" (See either [Amazon url](https://www.amazon.com/dp/B077FX57ZZ) or [free copy](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)) and inventor of the ["Supersymmetric Artificial Neural Network"](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network). 
+[God Quest Bennett](https://www.linkedin.com/in/god-bennett/) is author of "**Artificial Neural Networks for Kids**" (See either [Amazon url](https://www.amazon.com/dp/B077FX57ZZ) or [free copy](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)) and inventor of the ["Supersymmetric Artificial Neural Network"](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network), essentially a new branch of Deep Learning.
 
 
 
