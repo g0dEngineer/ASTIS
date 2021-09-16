@@ -70,7 +70,7 @@ More python pickle information can be found on the [Pickle Library Page](https:/
 
 # Spaced learning/ [See evidence of spaced learning on nature journal](https://www.nature.com/articles/nrn.2015.18)
 
-# It is quite empowering to store these ~1000 lines of fundamental neural network code in one's memory, and it will be almost addictive to repeat daily, but distancing the instances one practices this cycle (for every 6 to 8 months) reasonably helps to cement understanding of what is being memorized.
+# It is quite empowering to store these ~1000 lines of fundamental neural network code in one's memory (an approximation of our own biological brains), and it will be almost addictive to repeat daily, but distancing the instances one practices this cycle (for every 6 to 8 months) reasonably helps to cement understanding of what is being memorized.
 
 
 ## Week 2 - Machine Learning Library Practice
