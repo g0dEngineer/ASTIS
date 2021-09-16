@@ -17,10 +17,12 @@ There are thousands of Ai links online, and this course condenses both ASTI lect
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/single_pathway.png)
 ***Figure ([made by Bennett in Context Free Art](https://www.contextfreeart.org/gallery/view.php?id=3603)): Single, apparently cluttered learning pathway normally found in typical ai software programs.***
+
 Most known software ai programs tend to aim to encapsulate too many types of learning students into single pathways, and as a result, said programs tend to be 3+ months long. 
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/multi_pathway.png)
 ***Figure ([made by Bennett in Context Free Art](https://www.contextfreeart.org/gallery/view.php?id=3603)): Multi-pathway learning lines, tailored to candidates of different starting points of knowledge.***
+
 ASTI does multiple paths ([in the divide and conquer regime](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm)), instead of trying to fit many things along a single path. We therein reduce time to approximately 6 weeks. Time is also reduced due to our focus on broad neural networks as [universal problem solvers](https://en.wikipedia.org/wiki/Universal_approximation_theorem).
 
 
