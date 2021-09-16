@@ -75,7 +75,14 @@ The author of the tutorial above is [Roger Dudler](https://twitter.com/rogerdudl
 4. (Optional) Upload this code to your github account. Name it "My-Code_For-AICES-Week-1", or something similar.
 5. Instead of on your own in item (3), let me guide you through, let's do [my live artificial neural network programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions)! Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use python to follow along to replicate my basic neural network code as I write it out! 
 
+![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/exclamation_mark.png)
+
 * Even after you have done this entire course, practice this basic neural network programming session every 6 to 8 months on your own [(as I do here)](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE). More practice will grant you more intuition and grasp of Neural Networks/Machine Learning overall.
+* As [dicussed prior](https://github.com/g0dEngineer/ASTIS#astis-multi-pathwaydynamic-lines-of-pedagogy-divide-and-conquer), neural networks are [universal problem solvers](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and therein, learning to construct them is an optimal way to equip one's mind with core ML incredients.
+
+# Spaced learning/ [See evidence of spaced learning on nature journal](https://www.nature.com/articles/nrn.2015.18)
+
+# It is quite empowering to store these ~1000 lines of fundamental neural network code in one's memory, and it will be almost addictive to repeat daily, but distancing the instances one practices this cycle (for every 6 to 8 months) reasonably helps to cement understanding of what is being memorized.
 
 
 ## Week 2 - Machine Learning Library Practice
