@@ -82,7 +82,7 @@ The author of the tutorial above is [Roger Dudler](https://twitter.com/rogerdudl
 * Even after you have done this entire course, practice this basic neural network programming session every 6 to 8 months on your own [(as I do here)](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE). More practice will grant you more intuition and grasp of Neural Networks/Machine Learning overall.
 * As [dicussed prior](https://github.com/g0dEngineer/ASTIS#astis-multi-pathwaydynamic-lines-of-pedagogy-divide-and-conquer), neural networks are [universal problem solvers](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and therein, learning to construct them is an optimal way to equip one's mind with core ML incredients.
 
-# Spaced learning: https://www.nature.com/articles/nrn.2015.18
+# Spaced learning/ [See evidence of spaced learning on nature journal](https://www.nature.com/articles/nrn.2015.18)
 
 # It is quite empowering to store these ~1000 lines of fundamental neural network code in one's memory, and it will be almost addictive to repeat daily, but distancing the instances one practices this cycle reasonably helps to cement understanding of what is being memorized.
 
