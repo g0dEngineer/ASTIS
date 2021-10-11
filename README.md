@@ -1,6 +1,9 @@
 # Advanced Solutions Technical Institute - Smart Ai Curriculum (ASTIS) Via https://www.astitnt.com
 
-# Course: "A Practical/Rapid ~6+ Week Ai Course is all you need"
+
+# Course: "A Practical/Rapid ~6+ Week Ai Program/Diploma is all you need"
+
+![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/initial_banner_asti.png)
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/down.png)
 
