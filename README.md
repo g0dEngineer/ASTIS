@@ -45,7 +45,7 @@ ASTI does multiple paths ([in the divide and conquer regime](https://en.wikipedi
 
 # [ASTIS](https://github.com/g0dEngineer/ASTIS) Curriculum Main Page
 
-![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/banner.jpg)
+![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/logo.png)
 
 # Why learn Ai development and application?
 1. [The world's smartest people are switching careers into Ai research and application/productization!](https://www.linkedin.com/posts/god-bennett_httpslnkdinebrmfzu-activity-6761811288260694016-70Ys).
