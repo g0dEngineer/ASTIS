@@ -19,6 +19,7 @@ See [this course outline](https://github.com/g0dEngineer/ASTIS/blob/main/data/An
 
 # Rubrics
 See [Certificate Rubric](https://github.com/g0dEngineer/ASTIS/blob/main/data/Rubric_ASTIS%20Practical%20Ai%20Diploma%20Examination%20.xlsx).
+
 See [Diploma Rubric](https://github.com/g0dEngineer/ASTIS/blob/main/data/Rubric_ASTIS%20Practical%20Ai%20Diploma%20Examination%20.xlsx).
 
 # Happy coding!
