@@ -5,7 +5,6 @@
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/initial_banner_asti.png)
 
-![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/down.png)
 
 There are thousands of Ai links online, and this course condenses both ASTI lecturer's work as well as powerful models by large corporations like tensorflow [into consumable pathways](https://github.com/g0dEngineer/ASTIS#rapidoptimal-6-week-curriculum). 
 
