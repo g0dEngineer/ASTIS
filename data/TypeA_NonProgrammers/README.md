@@ -14,4 +14,11 @@ There are thousands of Ai links online, and this course condenses both ASTI lect
 # Main Page
 You may return to the main page from [here](https://github.com/g0dEngineer/ASTIS).
 
+# Outline
+See [this course outline](https://github.com/g0dEngineer/ASTIS/blob/main/data/An%20Advanced%20and%20Practical%20Ai%20Program%20is%20all%20you%20need!%20%20%5BNon-Programmers%20Course%20Outline%5D.pdf). 
+
+# Rubrics
+See [Certificate Rubric](https://github.com/g0dEngineer/ASTIS/blob/main/data/Rubric_ASTIS%20Practical%20Ai%20Diploma%20Examination%20.xlsx).
+See [Diploma Rubric](https://github.com/g0dEngineer/ASTIS/blob/main/data/Rubric_ASTIS%20Practical%20Ai%20Diploma%20Examination%20.xlsx).
+
 # Happy coding!
