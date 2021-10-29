@@ -139,7 +139,6 @@ See also - Short summary: ["NOW IT’S OFFICIAL: WE DIDN’T UNDERSTAND HOW NEUR
 - [x] Rapid Ai Product Building Methodology (Exposed in Diploma)
 - [x] Artificial General Intelligence Basis (Exposed in both Certificate & Diploma. )
 * Separate/outside of the Syllabus-Exam rubric & Diploma, UAD lecturer Bennett uniquely introduces Human Level Ai/Artificial General Intelligence - (predicted by around 2023-2029 or later, by experts to be mankind's last invention), with a youtube video of an AGI related discussion with Bennett and AGI pioneer Dr. Eray Ozkural, 2015 Kurzweil AGI winner, and collaborator with people who coined the term artificial intelligence!Includes talk between ASTIS lead God Bennett, and Dr. Eray Ozkural, one of the smartest persons who are currently working on AGI, who won the 2015 Kurzweil AGI award, given by Google's Ray Kurzweil.
-* Dr Eray actually worked with people like Solomonoff/ John McCarthy, who actually coined the term "Artificial Intelligence"! (See Dartmouth Workshop)
 
 # Happy coding!
 
