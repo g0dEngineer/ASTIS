@@ -1,10 +1,16 @@
 # Advanced Solutions Technical Institute - Smart Ai Curriculum (ASTIS) Via https://www.astitnt.com
 
 
-# Diploma or Certificate: "Universal Artificial Intelligence Diploma"
+# Diploma or Certificate: "Universal Artificial Intelligence Diploma (UAD, ASTIS)"
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/initial_banner_asti.png)
 
+
+# UAD Student Onboarding
+i. See Pre-requisites
+ii. Student registration with ASTIS
+iii. Live Ai Watch Party: [Robert Downey Jr/ AGE of Artificial Intelligence](https://youtu.be/UwsrzCVZAb8?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc) 
+iv. Begin Diploma or Certificate!
 
 
 There are thousands of Ai links online, and this course condenses both ASTI lecturer's work as well as powerful models by large corporations like tensorflow [into consumable pathways](https://github.com/g0dEngineer/ASTIS#rapidoptimal-6-week-curriculum). 
@@ -53,9 +59,7 @@ ASTI does multiple paths ([in the divide and conquer regime](https://en.wikipedi
 2. According to [PwC Global](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html), Ai will yield a [15 trillion dollar market cap by the year 2030](https://www.forbes.com/sites/greatspeculations/2019/02/25/ai-will-add-15-trillion-to-the-world-economy-by-2030/?sh=76b9bd4e1852). This is around the same time [800 million jobs shall be automated away, according to Bank of America](https://www.bbc.com/news/world-us-canada-42170100).
  * It is thus key to intimately benefit in this automation effort, rather than fail to do so.
 
-# Recommended Mini Artificial Intelligence Docuseries:
-[The AGE of Artificial Intelligence Season 1, Hosted by Robert Downey Jr](
-https://youtu.be/UwsrzCVZAb8?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
+
 
 # Introduction
 1. Brain inspired computer code or smart apps, called **AGI or artificial _general_ intelligence** (predicted to happen by [as soon as 2029 or sooner](http://www.businessinsider.com/ray-kurzweil-thinks-well-have-human-level-ai-by-2029-2014-12)), will perhaps one day be [mankind's last invention!](https://www.youtube.com/watch?v=9snY7lhJA4c) For now though, AGI's predecessor, called **artificial _narrow_ intelligence**, also called **artificial intelligence**, can do amazing stuff like [diagnose diseases better than human doctors](https://futurism.com/ai-diagnose-heart-disease-lung-cancer-more-accurately-doctors/), or [give game characters the ability to learn to navigate game environments without human aid](https://www.youtube.com/watch?v=qv6UVOQ0F44)! 
