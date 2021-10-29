@@ -11,8 +11,8 @@ There are thousands of Ai links online, and this course condenses both ASTI lect
 
 * Related to the core components; with ASTI's emphasis and main focus on Neural Networks, ([universal problem solvers](https://en.wikipedia.org/wiki/Universal_approximation_theorem))... it is ASTI lecturer's duty to always provide direct feedback and guidance throughout the lecturer's own academic software work/teachings, as well the models of the large corporations like tensorflow. 
 
-* Separate/outside of the Syllabus-Exam rubric & Diploma, UAD lecturer Bennett introduces Human Level Ai/Artificial General Intelligence, with a youtube video of an AGI related discussion with Bennett and AGI pioneer Dr. Eray Ozkural, 2015 Kurzweil AGI winner, and collaborator with people who coined the term artificial intelligence!
-* Related to the aforesaid bonus component, **unlike typical Ai/Ml programs**, it is thus ASTI lecturer's duty to [softly introduce candidates into the world of Artificial General Intelligence](https://github.com/g0dEngineer/ASTIS/blob/main/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) (AGI...which is currently separate from the world of tensorflow/specialized Ai etc, and often refered to as man's last invention by Dr Eray Ozkural, Dr Ben Gortzel, and several other AGI pioneers).
+* Separate/outside of the Syllabus-Exam rubric & Diploma, UAD lecturer Bennett introduces Human Level Ai/Artificial General Intelligence.
+* Related to the aforesaid bonus component, **unlike typical Ai/Ml programs**, it is thus ASTI lecturer's duty to [softly introduce candidates into the world of Artificial General Intelligence](https://github.com/g0dEngineer/ASTIS/blob/main/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) (AGI...which is currently separate from the world of tensorflow/specialized Ai etc, and often refered to as man's last invention by Dr Ben Gortzel, and several other AGI pioneers).
 
 **Course Pathways**: https://github.com/g0dEngineer/ASTIS#rapidoptimal-6-week-curriculum
 
@@ -137,7 +137,7 @@ See also - Short summary: ["NOW IT’S OFFICIAL: WE DIDN’T UNDERSTAND HOW NEUR
 - [x] Ai Product Building (Exposed in Diploma)
 - [x] Rapid Ai Product Building Methodology (Exposed in Diploma)
 - [x] Artificial General Intelligence Basis (Exposed in both Certificate & Diploma. )
-* Separate/outside of the Syllabus-Exam rubric & Diploma, UAD lecturer Bennett uniquely introduces Human Level Ai/Artificial General Intelligence - (predicted by around 2023-2029 or later, by experts to be mankind's last invention), with a youtube video of an AGI related discussion with Bennett and AGI pioneer Dr. Eray Ozkural, 2015 Kurzweil AGI winner, and collaborator with people who coined the term artificial intelligence!Includes talk between ASTIS lead God Bennett, and Dr. Eray Ozkural, one of the smartest persons who are currently working on AGI, who won the 2015 Kurzweil AGI award, given by Google's Ray Kurzweil.
+* Separate/outside of the Syllabus-Exam rubric & Diploma, UAD lecturer Bennett uniquely introduces Human Level Ai/Artificial General Intelligence - (predicted by around 2023-2029 or later, by experts to be mankind's last invention).
 
 # Happy coding!
 
