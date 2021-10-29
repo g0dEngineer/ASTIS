@@ -8,11 +8,15 @@
 
 # UAD Student Onboarding
 i. See [Pre-requisites](https://github.com/g0dEngineer/ASTIS/blob/main/README.md#curriculum-requirements).
+
 ii. Student registration with ASTIS.
+
 iii. Live Ai Watch Party: [Robert Downey Jr/ AGE of Artificial Intelligence](https://youtu.be/UwsrzCVZAb8?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc) 
+
 iv. Begin Diploma or Certificate!
 
 
+# Introduction
 There are thousands of Ai links online, and this course condenses both ASTI lecturer's work as well as powerful models by large corporations like tensorflow [into consumable pathways](https://github.com/g0dEngineer/ASTIS#rapidoptimal-6-week-curriculum). 
 
 * Related to the core components; with ASTI's emphasis and main focus on Neural Networks, ([universal problem solvers](https://en.wikipedia.org/wiki/Universal_approximation_theorem))... it is ASTI lecturer's duty to always provide direct feedback and guidance throughout the lecturer's own academic software work/teachings, as well the models of the large corporations like tensorflow. 
