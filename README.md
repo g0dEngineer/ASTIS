@@ -148,6 +148,9 @@ See also - Short summary: ["NOW IT’S OFFICIAL: WE DIDN’T UNDERSTAND HOW NEUR
 - [x] Artificial General Intelligence Basis (Exposed in both Certificate & Diploma. )
 * Separate/outside of the Syllabus-Exam rubric & Diploma, UAD lecturer Bennett uniquely introduces Human Level Ai/Artificial General Intelligence - (predicted by around 2023-2029 or later, by experts to be mankind's last invention).
 
+# Diploma content in Word Format
+See [Github download](https://github.com/g0dEngineer/ASTIS/blob/main/data/ASTI%20-%20Universal%20Artificial%20Intelligence%20-%20Diploma%20-%20Word%20Format%20Content.zip).
+
 # Happy coding!
 
 
