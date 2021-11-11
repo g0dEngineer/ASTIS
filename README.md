@@ -4,7 +4,7 @@
 # Diploma or Certificate: "Universal Artificial Intelligence Diploma (UAD, ASTIS)"
 [Practical Ai](https://en.wikipedia.org/wiki/Artificial_intelligence#Applications) Diploma with core focus on neural networks as [universal problem solvers](https://en.wikipedia.org/wiki/Universal_approximation_theorem).
 
-# Nothing sweeter than artificial neural networks!
+# Nothing likely sweeter than artificial neural networks!
 
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/initial_banner_asti.png)
