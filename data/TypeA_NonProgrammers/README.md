@@ -1,4 +1,8 @@
+
+
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/logo.png)
+
+#Nothing sweeter than artificial neural networks!
 
 There are thousands of Ai links online, and this course condenses both ASTI lecturer's work as well as powerful models by large corporations like tensorflow [into consumable pathways](https://github.com/g0dEngineer/ASTIS#rapidoptimal-6-week-curriculum). One may aim to tap into [Ai's predicted 15 Trillion dollar 2030 market cap](https://www.forbes.com/sites/greatspeculations/2019/02/25/ai-will-add-15-trillion-to-the-world-economy-by-2030/?sh=76b9bd4e1852), or a more recent prediction of [80 trillion by 2030 according to ark invest (likely as the most important sector)!](https://youtu.be/UBmcCRno35A)
 
