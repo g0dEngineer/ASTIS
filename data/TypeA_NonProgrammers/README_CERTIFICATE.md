@@ -87,7 +87,7 @@ Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/exclamation_mark.png)
 
 * Even after you have done this entire course, practice this basic neural network programming session every 6 to 8 months on your own [(as I do here)](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE). More practice will grant you more intuition and grasp of Neural Networks/Machine Learning overall.
-* As [dicussed prior](https://github.com/g0dEngineer/ASTIS#astis-multi-pathwaydynamic-lines-of-pedagogy-divide-and-conquer), neural networks are [universal problem solvers](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and therein, learning to construct them is an optimal way to equip one's mind with core ML incredients.
+* As [discussed prior](https://github.com/g0dEngineer/ASTIS#astis-multi-pathwaydynamic-lines-of-pedagogy-divide-and-conquer), neural networks are [universal problem solvers](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and therein, learning to construct them is an optimal way to equip one's mind with core ML ingredients.
 
 # Spaced learning/ [See evidence of spaced learning on nature journal](https://www.nature.com/articles/nrn.2015.18)
 
