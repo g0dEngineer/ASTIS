@@ -79,7 +79,7 @@ The author of the tutorial above is [Roger Dudler](https://twitter.com/rogerdudl
 
 Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use python to follow along to replicate my basic neural network code as I write it out!
  
-5. (Mandatory) Upload this code to your github account. Name it "My-Code_For-AICES-Week-1", or something similar.
+4. (Mandatory) Upload this code to your github account. Name it "My-Code_For-AICES-Week-1", or something similar.
 
 
 
