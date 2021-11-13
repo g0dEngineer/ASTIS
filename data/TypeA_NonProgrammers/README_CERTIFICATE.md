@@ -92,7 +92,7 @@ The author of the tutorial above is [Roger Dudler](https://twitter.com/rogerdudl
 
 * You can use any one of these libraries for the subsequent weeks. Note that Tensorflow has the support of Google, so it may be wise to choose this library. MXNET also has the support of Microsoft, so that is not a bad option either.
 
-#Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
+# Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
 
 
 
@@ -102,7 +102,7 @@ The author of the tutorial above is [Roger Dudler](https://twitter.com/rogerdudl
 2. Implement a Convolutional Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/tensorflow/faster_rcnn/inception_resnet_v2_640x640/1)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
 3. Upload this code to your github account. Name it "My-Code_For-ASTIS-Week-3", or something similar.
 
-#Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
+# Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
 
 
 ## Week 4 - Recurrent Artificial Neural Networks or Transformers
@@ -118,7 +118,7 @@ Note: Please try to complete the 1st 5 chapters of [the Deep Learning Book](http
 
 This semester concludes with a core review of mathematical notations ranging from Linear Algebra, to Numerical Computation. No code shall be uploaded for this last review.
 
-#Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
+# Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
 
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/down.png)
@@ -130,7 +130,7 @@ An important part of Deep Learning is the ability to carry accross some code bas
 3. Writing a research paper helps not only to communicate an ai project's ideas/results to other scientists, but helps the candidate to extract meaningful core information from a project.
 4. Upload this paper to your github account. Name it "Paper_For-ASTIS-FinalSemester", or something similar.
 
-#Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
+# Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
 
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/TypeA_NonProgrammers/data/portfolio.png)
