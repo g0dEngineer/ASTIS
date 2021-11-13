@@ -45,9 +45,13 @@ More python pickle information can be found on the [Pickle Library Page](https:/
 
 1. Follow closely, [this 9 step neural network construction tutorial by Eden Au](https://towardsdatascience.com/machine-learning-in-python-numpy-neural-network-in-9-steps-eafd0db25906).
 2. **Intuitive understanding** of basic machine learning components, such as fundamental artificial neural network structures, is important for **maintaining the desire** to continue to pursue the field of artificial intelligence/machine learning/data science. If you still desire a more intuitive description of the basic artificial neural networks described in item 1 above, read the text descriptions and watch the video content found in my book "**Artificial Neural Networks for Kids**". (Get the book from [this Amazon url](https://www.amazon.com/dp/B077FX57ZZ), or get it free from [this Research-Gate url](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)).
-3. (Optional) On your own, try to construct a basic artificial neural network from scratch, without the usage of any machine learning library. (You can follow this guidline of mine [here](https://its2019.iis-international.org/wp-content/uploads/ITS-2019-Tutorial.pdf) or [here](https://drive.google.com/file/d/1PqCvorCsCiPqVkYZPjDpiIk41NOfGz-c/view?usp=sharing), taken from my presentation/programming tutorial at [ITS 2019](https://its2019.iis-international.org/program/selected-workshops-and-tutorials/).)
-4. (Optional) Upload this code to your github account. Name it "My-Code_For-AICES-Week-1", or something similar.
-5. Instead of on your own in item (3), let me guide you through, let's do [my live artificial neural network programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions)! Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use python to follow along to replicate my basic neural network code as I write it out! 
+3. If not reasonably familiar with Java, see UAD Lecturer Bennett's, [Java Wormhole exercise](https://github.com/g0dEngineer/JAVA_WORMHOLE/). 
+
+4. (Mandatory) We will construct a basic artificial neural network from scratch together, without the usage of any machine learning library. (You can follow this guidline of mine [here](https://its2019.iis-international.org/wp-content/uploads/ITS-2019-Tutorial.pdf) or [here](https://drive.google.com/file/d/1PqCvorCsCiPqVkYZPjDpiIk41NOfGz-c/view?usp=sharing), taken from my presentation/programming tutorial at [ITS 2019](https://its2019.iis-international.org/program/selected-workshops-and-tutorials/).) 
+
+Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use python to follow along to replicate my basic neural network code as I write it out!
+ 
+5. (Mandatory) Upload this code to your github account. Name it "My-Code_For-AICES-Week-1", or something similar.
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/exclamation_mark.png)
 
@@ -56,7 +60,7 @@ More python pickle information can be found on the [Pickle Library Page](https:/
 
 # Spaced learning/ [See evidence of spaced learning on nature journal](https://www.nature.com/articles/nrn.2015.18)
 
-# It is quite empowering to store these ~1000 lines of fundamental neural network code in one's memory (an approximation of our own biological brains), and it will be almost addictive to repeat daily, but distancing the instances one practices this cycle (for every 6 to 8 months) reasonably helps to cement understanding of what is being memorized.
+# It is quite empowering to store these ~1000 lines of fundamental neural network code in one's memory (i.e. artificial neural networks are an approximation of our own biological brains!), and it will be almost addictive to repeat daily after earning this diploma, but distancing the instances one practices this cycle (for every 6 to 8 months) reasonably helps to cement understanding of what is being memorized.
 
 
 ## Week 2 - Machine Learning Library Practice
@@ -64,12 +68,18 @@ More python pickle information can be found on the [Pickle Library Page](https:/
 
 * You can use any one of these libraries for the subsequent weeks. Note that Tensorflow has the support of Google, so it may be wise to choose this library. MXNET also has the support of Microsoft, so that is not a bad option either.
 
+# Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
+
+
 
 ## Week 3 - Convolutional Artificial Neural Networks
 
 1. Watch [Convolution Neural Networks - explained!](https://www.youtube.com/watch?v=m8pOnJxOcqY) by Code Emporium.
 2. Implement a Convolutional Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/tensorflow/faster_rcnn/inception_resnet_v2_640x640/1)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
 3. Upload this code to your github account. Name it "My-Code_For-ASTIS-Week-3", or something similar.
+
+# Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
+
 
 ## Week 4 - Recurrent Artificial Neural Networks or Transformers
 
@@ -92,6 +102,9 @@ This semester concludes with a core review of mathematical notations ranging fro
 This semester concludes with a core review of mathematical notations ranging from Linear Algebra, to Numerical Computation. No code shall be uploaded for this last review.
 
 
+# Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
+
+
 
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/down.png)
@@ -103,6 +116,9 @@ An important part of Deep Learning is the ability to carry accross some code bas
 2. Discuss at least 5 sections/titles included in pdf paper.
 3. Writing a research paper helps not only to communicate an ai project's ideas/results to other scientists, but helps the candidate to extract meaningful core information from a project.
 4. Upload this paper to your github account. Name it "Paper_For-ASTIS-FinalSemester", or something similar.
+
+
+# Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
 
 
 # Your portfolio
