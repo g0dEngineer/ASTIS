@@ -7,7 +7,9 @@
 # Nothing sweeter than artificial neural networks!
 It is quite empowering to store these ~1000 lines of fundamental neural network code in one's memory (an approximation of our own biological brains), and it will be almost addictive to repeat daily, but distancing the instances one practices this cycle (for every 6 to 8 months) reasonably helps to cement understanding of what is being memorized.
 
-Beyond practical Machine Learning Library application, this Diploma entails as prescribed by UAD Lecturer God Bennett, a cyclical fundamental artificial neural network writing session, occurring at the end of each week, designed to hammer this concept/tool in the mind of the candidate.
+As underlined in prior [Live Neural network sessions by Lead UAD Lecturer Bennett](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions), artificial neural networks can represent a wide variety of utilities/functions as seen in [Universal Approximation Theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and since neural networks power most cognitive/smart apps today, ranging from Tesla's self-driving cars, to Facebook's auto face tagging Ai, ASTIS targets this core field. Learning neural networks which are general models, gives rise to intuition needed to venture elsewhere if necessary.
+
+# Beyond practical Machine Learning Library application, this Diploma entails as prescribed by UAD Lecturer God Bennett, a cyclical fundamental artificial neural network writing session, occurring at the end of each week, designed to hammer this concept/tool in the mind of the candidate.
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/initial_banner_asti.png)
 
