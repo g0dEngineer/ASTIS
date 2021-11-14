@@ -76,7 +76,7 @@ The author of the tutorial above is [Roger Dudler](https://twitter.com/rogerdudl
 
 3. As a pre-requisite only for item (4) below, if not reasonably familiar with Java, see UAD Lecturer Bennett's, [Java Wormhole exercise](https://github.com/g0dEngineer/JAVA_WORMHOLE/). 
 
-4. (Mandatory) We will construct a basic artificial neural network from scratch together, without the usage of any machine learning library. (You can follow this guidline of mine [here](https://its2019.iis-international.org/wp-content/uploads/ITS-2019-Tutorial.pdf) or [here](https://drive.google.com/file/d/1PqCvorCsCiPqVkYZPjDpiIk41NOfGz-c/view?usp=sharing), taken from my presentation/programming tutorial at [ITS 2019](https://its2019.iis-international.org/program/selected-workshops-and-tutorials/).) 
+4. (Mandatory) We will construct a basic artificial neural network from scratch together, without the usage of any machine learning library. (You can follow this guideline of mine [here](https://its2019.iis-international.org/wp-content/uploads/ITS-2019-Tutorial.pdf) or [here](https://drive.google.com/file/d/1PqCvorCsCiPqVkYZPjDpiIk41NOfGz-c/view?usp=sharing), taken from my presentation/programming tutorial at [ITS 2019](https://its2019.iis-international.org/program/selected-workshops-and-tutorials/).) 
 
 Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use python to follow along to replicate my basic neural network code as I write it out!
  
