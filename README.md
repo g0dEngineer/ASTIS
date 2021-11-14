@@ -7,6 +7,8 @@
 # Nothing sweeter than artificial neural networks!
 It is quite empowering to store these ~1000 lines of fundamental neural network code in one's memory (an approximation of our own biological brains), and it will be almost addictive to repeat daily, but distancing the instances one practices this cycle (for every 6 to 8 months) reasonably helps to cement understanding of what is being memorized.
 
+Beyond practical Machine Learning Library application, this Diploma entails as prescribed by UAD Lecturer God Bennett, a cyclical fundamental artificial neural network writing session, occurring at the end of each week, designed to hammer this concept/tool in the mind of the candidate.
+
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/initial_banner_asti.png)
 
 
