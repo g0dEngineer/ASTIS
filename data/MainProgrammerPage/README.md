@@ -19,8 +19,8 @@ You may return to the main page from [here](https://github.com/g0dEngineer/ASTIS
 See [this course outline](https://github.com/g0dEngineer/ASTIS/blob/main/data/Universal%20Artificial%20Intelligence%20Diploma%20%5BProgrammers%20Course%20Outline%5D.pdf). 
 
 # Rubrics
-See [Certificate Rubric](https://github.com/g0dEngineer/ASTIS/blob/main/data/Rubric_ASTIS%20Practical%20Ai%20Certificate%20Examination%20.xlsx).
+See [Certificate Rubric](https://github.com/g0dEngineer/ASTIS/blob/main/data/Rubric_ASTIS%20Universal%20Artificial%20Intelligence%20Certificate.xlsx).
 
-See [Diploma Rubric](https://github.com/g0dEngineer/ASTIS/blob/main/data/Rubric_ASTIS%20Practical%20Ai%20Diploma%20Examination%20.xlsx).
+See [Diploma Rubric](https://github.com/g0dEngineer/ASTIS/blob/main/data/Rubric_ASTIS%20Universal%20Artificial%20Intelligence%20Diploma.xlsx).
 
 # Happy coding!
