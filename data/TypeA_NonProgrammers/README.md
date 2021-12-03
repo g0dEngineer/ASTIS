@@ -19,7 +19,7 @@ There are thousands of Ai links online, and this course condenses both ASTI lect
 You may return to the main page from [here](https://github.com/g0dEngineer/ASTIS).
 
 # Outline
-See [this course outline](https://github.com/g0dEngineer/ASTIS/blob/main/data/Universal%20Artificial%20Intelligence%20Diploma%20%5BNon-Programmers%20Course%20Outline%5D.pdf). 
+See [this diploma outline](https://github.com/g0dEngineer/ASTIS/blob/main/data/Universal%20Artificial%20Intelligence%20Diploma%20%5BNon-Programmers%20Course%20Outline%5D.pdf). 
 
 # Rubrics
 See [Certificate Rubric](https://github.com/g0dEngineer/ASTIS/blob/main/data/Rubric_ASTIS%20Universal%20Artificial%20Intelligence%20Certificate.xlsx).
