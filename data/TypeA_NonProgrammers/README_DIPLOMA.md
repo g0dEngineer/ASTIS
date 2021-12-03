@@ -76,6 +76,9 @@ The author of the tutorial above is [Roger Dudler](https://twitter.com/rogerdudl
 
 3. As a pre-requisite only for item (4) below, if not reasonably familiar with Java, see UAD Lecturer Bennett's, [Java Wormhole exercise](https://github.com/g0dEngineer/JAVA_WORMHOLE/). 
 
+## Note on this Java Wormhole: University CS degrees tend to contain both Java and Python. Via this Universal Ai Diploma, beyond enabling students to adequately gauge how they absorb the fundamental neural network structure from the fundamental neural network Java programming session in the long run, (through applying the Java basis in perhaps python while avoid merely mirroring the Java pathway), this Java neural network programming session, together with the  other majority of the Diploma, namely python Deep Learning semesters, form an intelligent/malleable portfolio for candidates/students.
+
+
 4. (Mandatory) We will construct a basic artificial neural network from scratch together, without the usage of any machine learning library. (You can follow this guideline of mine [here](https://its2019.iis-international.org/wp-content/uploads/ITS-2019-Tutorial.pdf) or [here](https://drive.google.com/file/d/1PqCvorCsCiPqVkYZPjDpiIk41NOfGz-c/view?usp=sharing), taken from my presentation/programming tutorial at [ITS 2019](https://its2019.iis-international.org/program/selected-workshops-and-tutorials/).) 
 
 Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use python to follow along to replicate my basic neural network code as I write it out!
