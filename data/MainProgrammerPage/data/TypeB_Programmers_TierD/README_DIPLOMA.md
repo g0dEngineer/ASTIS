@@ -110,6 +110,12 @@ Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use
 2. Implement a Convolutional Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/tensorflow/faster_rcnn/inception_resnet_v2_640x640/1)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
 3. Upload this code to your github account. Name it "My-Code_For-ASTIS-Week-3", or something similar.
 
+___
+Example cases by Universal Ai Diploma Lead Lecturer/Instructor: 
+1. [World's 1st open source covid19 diagnosis tool](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
+2. [NVIDIa featured pothole detector](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano#this-project-is-featured-by-nvidia)
+
+
 
 # Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
 
@@ -135,6 +141,9 @@ Note: Your experiment does not need to include any 3d agent. Only a browser text
 2. Watch ["Make a Face Generative Adversarial Network in 15 MINUTES!"](https://www.youtube.com/watch?v=qbW-X6iW5jE) by Discover Artificial Intelligence.
 3. Implement a Generative Adversarial Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/google/lite-model/magenta/arbitrary-image-stylization-v1-256/fp16/prediction/1)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
 4. Upload this code to your github account. Name it "My-Code_For-ASTIS-Week-5", or something similar.
+
+___
+Example case by Lead Universal Ai Diploma Instructor/Lecturer: [World's first smart NFT being you can talk to](https://youtu.be/5eCcOtLV0uE]
 
 
 # Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
