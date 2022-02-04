@@ -123,7 +123,7 @@ Note: Your experiment does not need to include any 3d agent. Only a browser text
 ___
 Example cases by Lead Universal Ai Diploma Instructor/Lecturer: 
 1. [World's first smart NFT being you can talk to](https://youtu.be/5eCcOtLV0uE)
-2. [Worlds first open source ai car interior designer](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER]
+2. [Worlds first open source ai car interior designer](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER)
 
 
 # Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
