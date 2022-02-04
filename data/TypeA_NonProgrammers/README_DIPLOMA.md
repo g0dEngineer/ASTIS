@@ -120,6 +120,9 @@ Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use
 
 1. Alternative: [Create an assistant using free IBM Watson Cloud. This technology uses recurrent neural networks](https://www.ibm.com/cloud/learn/recurrent-neural-networks). Sign up for [IBM now for free](https://www.ibm.com/cloud).
 
+Example from lead Universal AI Diploma Instructor/Lecturer: https://youtu.be/pxgLJSd3_-s
+Note: Your experiment does not need to include any 3d agent. Only a browser text messenger is fine.
+
 
 # Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
 
