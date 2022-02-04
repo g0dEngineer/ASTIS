@@ -92,6 +92,11 @@ Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use
 2. Implement a Transformer, or Recurrent Neural Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/3)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
 3. Upload this code to your github account. Name it "My-Code_For-ASTIS-Week-4", or something similar.
 
+1. Alternative: [Create an assistant using free IBM Watson Cloud. This technology uses recurrent neural networks](https://www.ibm.com/cloud/learn/recurrent-neural-networks). Sign up for [IBM now for free](https://www.ibm.com/cloud).
+
+Example from lead Universal AI Diploma Instructor/Lecturer: https://youtu.be/pxgLJSd3_-s
+Note: Your experiment does not need to include any 3d agent. Only a browser text messenger is fine.
+
 # Week 4 End
 
 Note: Please try to complete the 1st 5 chapters of [the Deep Learning Book](http://www.deeplearningbook.org) by Yoshua Bengio et al. (Bengio is one of the winners of the winners of the 2018 Turing Award, a Nobel-Prize like award for Artificial Intelligence. See the CBS News Report on [the aforesaid 2018 Turing Award](https://www.youtube.com/watch?v=BWIV5xQoYbA)).
