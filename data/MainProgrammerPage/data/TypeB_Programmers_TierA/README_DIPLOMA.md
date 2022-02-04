@@ -103,7 +103,7 @@ Example cases by Universal Ai Diploma Lead Lecturer/Instructor:
 
 _____
 1. Alternative: [Create an assistant using free IBM Watson Cloud. This technology uses recurrent neural networks](https://www.ibm.com/cloud/learn/recurrent-neural-networks). Sign up for [IBM now for free](https://www.ibm.com/cloud).
-2. Upload this code to your github account. Name it "My-Code_For-ASTIS-Week-4", or something similar.
+2. Link your IBM agent as a new repo in your github account. Name it "My-Code_For-ASTIS-Week-4", or something similar.
 
 
 Example from lead Universal AI Diploma Instructor/Lecturer: https://youtu.be/pxgLJSd3_-s
