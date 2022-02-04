@@ -103,6 +103,8 @@ ___
 Example cases by Universal Ai Diploma Lead Lecturer/Instructor: 
 1. [World's 1st open source covid19 diagnosis tool](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
 2. [NVIDIa featured pothole detector](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano#this-project-is-featured-by-nvidia)
+3. [World's first open source masked face recognition artificial intelligence app](https://github.com/JordanMicahBennett/MASKED-UNSAVED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP) (see also [my stored face variant](https://github.com/JordanMicahBennett/MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP))
+
 
 
 # Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
@@ -131,7 +133,10 @@ Note: Your experiment does not need to include any 3d agent. Only a browser text
 4. Upload this code to your github account. Name it "My-Code_For-ASTIS-Week-5", or something similar.
 
 ___
-Example case by Lead Universal Ai Diploma Instructor/Lecturer: [World's first smart NFT being you can talk to](https://youtu.be/5eCcOtLV0uE)
+Example cases by Lead Universal Ai Diploma Instructor/Lecturer: 
+1. [World's first smart NFT being you can talk to](https://youtu.be/5eCcOtLV0uE)
+2. [Worlds first open source ai car interior designer](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER)
+
 
 # Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
 
