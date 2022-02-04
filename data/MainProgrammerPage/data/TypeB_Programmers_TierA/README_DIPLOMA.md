@@ -119,7 +119,7 @@ Note: Your experiment does not need to include any 3d agent. Only a browser text
 4. Upload this code to your github account. Name it "My-Code_For-ASTIS-Week-5", or something similar.
 
 ___
-Example case by Lead Universal Ai Diploma Instructor/Lecturer: [World's first smart NFT being you can talk to](https://youtu.be/5eCcOtLV0uE]
+Example case by Lead Universal Ai Diploma Instructor/Lecturer: [World's first smart NFT being you can talk to](https://youtu.be/5eCcOtLV0uE)
 
 
 # Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
