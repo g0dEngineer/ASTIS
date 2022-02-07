@@ -161,7 +161,7 @@ Example cases by Lead Universal Ai Diploma Instructor/Lecturer:
 
 ___
 Example case by Lead Universal Ai Diploma Instructor/Lecturer: 
-1. [Artificial Neural Networks + Reinforcement Learning for autonomous cars in Open World 3rd World Game by God Bennett](https://www.youtube.com/watch?v=r-PipvI6rUM)
+1. [Artificial Neural Networks + Reinforcement Learning for autonomous cars in Open World 3rd World 'Extortionist' Game by God Bennett](https://www.youtube.com/watch?v=r-PipvI6rUM)
 
 
 
