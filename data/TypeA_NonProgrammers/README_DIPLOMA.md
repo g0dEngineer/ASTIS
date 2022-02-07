@@ -159,6 +159,12 @@ Example cases by Lead Universal Ai Diploma Instructor/Lecturer:
 
 4. Upload this code with screenshots of your experiments, to your github account. Name it "My-Code_For-ASTIS-Week-6", or something similar.
 
+___
+Example case by Lead Universal Ai Diploma Instructor/Lecturer: 
+1. [Artificial Neural Networks + Reinforcement Learning for autonomous cars in Open World 3rd World Game by God Bennett](https://www.youtube.com/watch?v=r-PipvI6rUM)
+
+
+
 # Week 6 End
 
 Note: Please try to complete the 1st 5 chapters of [the Deep Learning Book](http://www.deeplearningbook.org) by Yoshua Bengio et al. (Bengio is one of the winners of the winners of the 2018 Turing Award, a Nobel-Prize like award for Artificial Intelligence. See the CBS News Report on [the aforesaid 2018 Turing Award](https://www.youtube.com/watch?v=BWIV5xQoYbA)).
