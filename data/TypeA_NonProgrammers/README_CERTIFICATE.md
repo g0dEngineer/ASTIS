@@ -137,7 +137,7 @@ Note: Your experiment does not need to include any 3d agent. Only a browser text
 
 2. Alternative 2: [Create an assistant using free RASA Open Source RNN based chatbot](https://rasa.com)
 
-Example with guideline from lead Universal AI Diploma Instructor/Lecturer:ttps://godquestbennett.medium.com/universal-ai-diploma-ibm-cloud-assistant-recurrent-neural-network-alternative-e42ce4d02a6d
+Example with guideline from lead Universal AI Diploma Instructor/Lecturer: https://godquestbennett.medium.com/universal-ai-diploma-ibm-cloud-assistant-recurrent-neural-network-alternative-e42ce4d02a6d
 Note: The item above unlike Alternative 1, does not require the use of visa card. (requires only your github profile which you would have had initially)
 
 
