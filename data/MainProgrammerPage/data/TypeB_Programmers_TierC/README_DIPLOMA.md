@@ -119,9 +119,16 @@ Example cases by Universal Ai Diploma Lead Lecturer/Instructor:
 
 _____
 1. Alternative: [Create an assistant using free IBM Watson Cloud. This technology uses recurrent neural networks](https://www.ibm.com/cloud/learn/recurrent-neural-networks). Sign up for [IBM now for free](https://www.ibm.com/cloud).
+See [guideline by UAD Lecturer G. Bennett](https://drive.google.com/file/d/1x9nC5wnw-UYMJJweFwlsZx67sve449Ft/view?usp=sharing).
 
 Example from lead Universal AI Diploma Instructor/Lecturer: https://youtu.be/pxgLJSd3_-s
 Note: Your experiment does not need to include any 3d agent. Only a browser text messenger is fine.
+
+2. Alternative 2: [Create an assistant using free RASA Open Source RNN based chatbot](https://rasa.com)
+
+Example with guideline from lead Universal AI Diploma Instructor/Lecturer: https://godquestbennett.medium.com/universal-ai-diploma-ibm-cloud-assistant-recurrent-neural-network-alternative-e42ce4d02a6d
+Note: The item above unlike Alternative 1, does not require the use of visa card. (requires only your github profile which you would have had initially)
+
 # Repeat: Universal Ai Diploma - [Live Neural Network Programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
 
 
