@@ -150,7 +150,9 @@ Note: The item above unlike Alternative 1, does not require the use of visa card
 4. Upload this code to your github account. Name it "My-Code_For-ASTIS-Week-5", or something similar.
 
 Alternative:
-1. Use any colab gan style transfer code ([like this example](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/style_transfer.ipynb#scrollTo=NyftRTSMuwue)) to make a custom image (transfer style to any image of your choice).
+
+Instructions: https://medium.com/@godquestbennett/universal-ai-diploma-week-5-generative-adversarial-neural-network-instructions-cf1b554ef92
+1. Use any colab gan style transfer code to make a custom image (transfer style to any image of your choice).
 2. Sign up for any free NFT space like Mintable, and "mint" aka upload your gan image "art" with a nice title.
 
 
