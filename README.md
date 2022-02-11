@@ -4,6 +4,8 @@
 # Diploma or Certificate: "Universal Artificial Intelligence Diploma (UAD, ASTIS)"
 [Practical Ai](https://en.wikipedia.org/wiki/Artificial_intelligence#Applications) Diploma with core focus on neural networks as [universal problem solvers](https://en.wikipedia.org/wiki/Universal_approximation_theorem).
 
+# This diploma includes 1 on 1 sessions or sessions with small groups, outside of main classes, for addressing student uncertainties.
+
 # Nothing sweeter than artificial neural networks!
 It is quite empowering to store these ~1000 lines of fundamental neural network code in one's memory (an approximation of our own biological brains), and it will be almost addictive to repeat daily, but distancing the instances one practices this cycle (for every 6 to 8 months) reasonably helps to cement understanding of what is being memorized.
 
