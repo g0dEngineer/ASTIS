@@ -130,6 +130,12 @@ Note: The item above unlike Alternative 1, does not require the use of visa card
 3. Implement a Generative Adversarial Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/google/lite-model/magenta/arbitrary-image-stylization-v1-256/fp16/prediction/1)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
 4. Upload this code to your github account. Name it "My-Code_For-ASTIS-Week-5", or something similar.
 
+Alternative:
+1. Use any colab gan style transfer code ([like this example](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/style_transfer.ipynb#scrollTo=NyftRTSMuwue)) to make a custom image (transfer style to any image of your choice).
+2. Sign up for any free NFT space like Mintable, and "mint" aka upload your gan image "art" with a nice title.
+
+
+
 ___
 Example cases by Lead Universal Ai Diploma Instructor/Lecturer: 
 1. [World's first smart NFT being you can talk to](https://youtu.be/5eCcOtLV0uE)
