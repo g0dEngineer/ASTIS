@@ -167,7 +167,9 @@ Example cases by Lead Universal Ai Diploma Instructor/Lecturer:
 
 3. Optionally, read [my 6 minute introduction to deep q learning](https://medium.com/@jordanmicahbennett/a-simple-8-minute-deepmind-deep-q-learning-schematic-in-input-process-outcome-cycle-laymen-terms-bb6916ccddb8). Deep Q learning is a variant of reinforcement learning.
 
-4. Upload this code with screenshots of your experiments, to your github account. Name it "My-Code_For-ASTIS-Week-6", or something similar.
+4. Upload this code with screenshots of your experiments, to your github account. Name it "[My-Code_For-ASTIS-Week-6](https://github.com/g0dEngineer/My-Code_For-ASTIS-Week-6/)", or something similar.
+
+
 ___
 Example case by Lead Universal Ai Diploma Instructor/Lecturer: 
 1. [Artificial Neural Networks + Reinforcement Learning for autonomous cars in Open World 3rd World 'Extortionist' Game by God Bennett](https://www.youtube.com/watch?v=r-PipvI6rUM)
