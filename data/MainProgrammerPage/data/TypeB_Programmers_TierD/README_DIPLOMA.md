@@ -108,7 +108,7 @@ Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use
 
 1. Watch [Convolution Neural Networks - explained!](https://www.youtube.com/watch?v=m8pOnJxOcqY) by Code Emporium.
 2. Implement a Convolutional Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/tensorflow/faster_rcnn/inception_resnet_v2_640x640/1)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
-3. Upload this code to your github account. Name it "My-Code_For-ASTIS-Week-3", or something similar.
+3. Upload this code to your github account. Name it "[My-Code_For-ASTIS-Week-3](https://github.com/g0dEngineer/My-Code_For-ASTIS-Week-3)", or something similar.
 
 ___
 Example cases by Universal Ai Diploma Lead Lecturer/Instructor: 
@@ -125,7 +125,7 @@ Example cases by Universal Ai Diploma Lead Lecturer/Instructor:
 
 1. Watch [Recurrent Neural Networks - explained!](https://www.youtube.com/watch?v=yZv_yRgOvMg) by Code Emporium.
 2. Implement a Transformer, or Recurrent Neural Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/3)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
-3. Upload this code to your github account. Name it "My-Code_For-ASTIS-Week-4", or something similar.
+3. Upload this code to your github account. Name it "[My-Code_For-ASTIS-Week-4](https://github.com/g0dEngineer/My-Code_For-ASTIS-Week-4/)", or something similar.
 
 _____
 1. Alternative: [Create an assistant using free IBM Watson Cloud. This technology uses recurrent neural networks](https://www.ibm.com/cloud/learn/recurrent-neural-networks). Sign up for [IBM now for free](https://www.ibm.com/cloud).
@@ -147,7 +147,7 @@ Note: The item above unlike Alternative 1, does not require the use of visa card
 1. Watch [Generative Adversarial Networks - FUTURISTIC & FUN AI!](https://www.youtube.com/watch?v=O8LAi6ksC80) by Code Emporium.
 2. Watch ["Make a Face Generative Adversarial Network in 15 MINUTES!"](https://www.youtube.com/watch?v=qbW-X6iW5jE) by Discover Artificial Intelligence.
 3. Implement a Generative Adversarial Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/google/lite-model/magenta/arbitrary-image-stylization-v1-256/fp16/prediction/1)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
-4. Upload this code to your github account. Name it "My-Code_For-ASTIS-Week-5", or something similar.
+4. Upload this code to your github account. Name it "[My-Code_For-ASTIS-Week-5](https://github.com/g0dEngineer/My-Code_For-ASTIS-Week-5)", or something similar.
 
 Alternative:
 
