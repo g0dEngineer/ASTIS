@@ -64,7 +64,8 @@ we will construct a basic artificial neural network from scratch together, witho
 
 Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use python to follow along to replicate my basic neural network code as I write it out!
  
-5. (Mandatory) Upload this code to your github account. Name it "My-Code_For-AICES-Week-1", or something similar.
+5. Upload this code to your github account. Name it "[My-Code_For-ASTIS-Week-1](https://github.com/g0dEngineer/My-Code_For-ASTIS-Week-1/)", or something similar.
+
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/exclamation_mark.png)
 
 * Even after you have done this entire course, practice this basic neural network programming session every 6 to 8 months on your own [(as I do here)](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE). More practice will grant you more intuition and grasp of Neural Networks/Machine Learning overall.
