@@ -85,7 +85,8 @@ we will construct a basic artificial neural network from scratch together, witho
 
 Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use python to follow along to replicate my basic neural network code as I write it out!
  
-5. (Mandatory) Upload this code to your github account. Name it "My-Code_For-AICES-Week-1", or something similar.
+5. Upload this code to your github account. Name it "[My-Code_For-ASTIS-Week-1](https://github.com/g0dEngineer/My-Code_For-ASTIS-Week-1/)", or something similar.
+
 
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/exclamation_mark.png)
 
