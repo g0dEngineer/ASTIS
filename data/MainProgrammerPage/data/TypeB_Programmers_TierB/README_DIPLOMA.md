@@ -128,7 +128,8 @@ Note: The item above unlike Alternative 1, does not require the use of visa card
 1. Watch [Generative Adversarial Networks - FUTURISTIC & FUN AI!](https://www.youtube.com/watch?v=O8LAi6ksC80) by Code Emporium.
 2. Watch ["Make a Face Generative Adversarial Network in 15 MINUTES!"](https://www.youtube.com/watch?v=qbW-X6iW5jE) by Discover Artificial Intelligence.
 3. Implement a Generative Adversarial Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/google/lite-model/magenta/arbitrary-image-stylization-v1-256/fp16/prediction/1)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
-4. Upload this code to your github account. Name it "[My-Code_For-ASTIS-Week-5](https://github.com/g0dEngineer/My-Code_For-ASTIS-Week-5)", or something similar.
+4. Upload this code with screenshots of your experiments, to your github account. Name it "[My-Code_For-ASTIS-Week-6](https://github.com/g0dEngineer/My-Code_For-ASTIS-Week-6/)", or something similar.
+
 
 Alternative:
 
