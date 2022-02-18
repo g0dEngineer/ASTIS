@@ -161,7 +161,7 @@ Example case by Lead Universal Ai Diploma Instructor/Lecturer:
 
 Note: Please try to complete the 1st 5 chapters of [the Deep Learning Book](http://www.deeplearningbook.org) by Yoshua Bengio et al. (Bengio is one of the winners of the winners of the 2018 Turing Award, a Nobel-Prize like award for Artificial Intelligence. See the CBS News Report on [the aforesaid 2018 Turing Award](https://www.youtube.com/watch?v=BWIV5xQoYbA)).
 
-You can practice as I do, [by writing out 8+ pages of equations from memory](https://youtu.be/_CdPSQoOdFg), i.e. start by memorizing/understanding equations from Linear Algebra, then chapter 3, then chapter 4, then each time you write out more and more pages from memory. Alternatively, you could practice by writing out and understanding an equation every single day. You mlikely need to repeat some equations for better grasp.
+You can practice as I do, [by writing out 8+ pages of equations from memory](https://youtu.be/_CdPSQoOdFg), i.e. start by memorizing/understanding equations from Linear Algebra, then chapter 3, then chapter 4, then each time you write out more and more pages from memory. Alternatively, you could practice by writing out and understanding an equation every single day. You likely need to repeat some equations for better grasp.
 
 This semester concludes with a core review of mathematical notations ranging from Linear Algebra, to Numerical Computation. No code shall be uploaded for this last review.
 
