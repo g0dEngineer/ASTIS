@@ -199,7 +199,7 @@ This semester concludes with a core review of mathematical notations ranging fro
 # RED Policy/Key to benefiting from Ai development (4th SEMESTER PRE-REQUISITE APPROACH)
 # R.E.D. → Rapid Experimentation Delivery of Ai apps
 What do you do when you want to hire a driver for a new driving task?
-1. Train a non-driver from scratch, i.e. get Licence, Train for 4 years on road.
+1. Train a non-driver from scratch, i.e. get License by training for 4 years on road? Or hire a driver who has had driving experience?
 * I.e. We can say the driver is pre-trained for driving, and time to train this driver for a driving task will be far less.
 
 In a similar way, to solve a problem amenable to Ai use, it is optimal to find a pre-trained Ai model, typically already trained on expensive Ai gpus for several hours (that can cost up to 3000 usd per unit or per month), like rtx 3090s up to V100s.
