@@ -124,10 +124,12 @@ By the time you complete either one of [ASTIS](https://github.com/g0dEngineer/AS
 # Why Artificial Neural Network focussed?
 ![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/logo.png)
 
-As underlined in [prior Live Neural network sessions by organizer Bennett](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions), artificial neural networks can represent a wide variety of utilities/functions as seen in [Universal Approximation Theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and since neural networks power most cognitive/smart apps today, ranging from Tesla's self driving cars, to Facebook's auto face tagging Ai, ASTIS targets this core field. Learning neural networks which are general models, gives rise to intuition needed to venture elsewhere if neccessary.
+As underlined in [prior Live Neural network sessions by organizer Bennett](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions), artificial neural networks can represent a wide variety of utilities/functions as seen in [Universal Approximation Theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and since neural networks power most cognitive/smart apps today, ranging from Tesla's self driving cars, to Facebook's auto face tagging Ai, ASTIS targets this core field. Learning neural networks which are general models, gives rise to intuition needed to venture elsewhere if neccessary. 
 
 # Why combine artificial neural networks from scratch in with focus in practical machine learning library stack such as tensorflow/pytorch...?
 ⚫Pertaining to artificial neural networks from scratch in particular, as [Microsoft's Joseph Albahari says](https://youtu.be/z8DY5DndmxI?t=192) (in his csharp based neural networks from scratch lecture), machine learning libraries are a great way to start, but not necessarily a great place to end up! 
+
+As noted by Bennett, [understanding these broad/fundamental neural network models from scratch without machine learning libraries, builds intuition in applying and debugging machine learning libraries](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
 
 📝In addition to the above, my reasonably smart curriculum includes "dynamic pathways" assuming some or no programming knowledge in addition to artificial neural networks from scratch. (The insight (that application of neural networks from scratch is a fundamental tool), of others like Sentdex and Joseph's, requires prior programming knowledge, and pertains to learning Neural Networks' internal structure, while my curriculum accommodates candidates with no programming knowledge etc)
 
