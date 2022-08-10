@@ -129,7 +129,7 @@ As underlined in [prior Live Neural network sessions by organizer Bennett](https
 # Why combine artificial neural networks from scratch in with focus in practical machine learning library stack such as tensorflow/pytorch...?
 ⚫Pertaining to artificial neural networks from scratch in particular, as [Microsoft's Joseph Albahari says](https://youtu.be/z8DY5DndmxI?t=192) (in his csharp based neural networks from scratch lecture), machine learning libraries are a great way to start, but not necessarily a great place to end up! 
 
-📝In addition to the above, my reasonably smart curriculum includes "dynamic pathways" assuming some or no programming knowledge in addition to artificial neural networks from scratch.
+📝In addition to the above, my reasonably smart curriculum includes "dynamic pathways" assuming some or no programming knowledge in addition to artificial neural networks from scratch. (The insight (that application of neural networks from scratch is a fundamental tool), of others like Sentdex and Joseph's, requires prior programming knowledge, and pertains to learning Neural Networks' internal structure, while my curiculum accomodates candidates with no programming knowledge etc)
 
 📝This Diploma combines artificial neural networks from scratch, in a [Java paradigm designed for new candidates](https://github.com/g0dEngineer/JAVA_WORMHOLE/), (around 1000 lines of code without machine learning libraries), with primarily practical detailed use of python aligned machine learning library enabled projects/via tensorflow for eg, therein helping candidates to gain intuition in the usage of machine learning libraries like tensorflow. University programs tend to confluence both Java and Python, where this **Diploma focusses primarily on python**.
 
